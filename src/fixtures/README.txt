@@ -1,0 +1,3 @@
+This is a webpage where user can input raw text dada of a magic deck that is Raw Deck Input. The code that runs there is responsible for only keeping the name of the card as well as quantity (strip to name + quantity). and the information that lingers after the name....Such as set code, foiling and card number, in some cases split cards and flip cards can have symbols like //, those are also taken care of. 
+ We basically clean the text.
+ We look up the cards at scryFall api. And fetch the data we need as desplayed in sample-deck.parsed.json

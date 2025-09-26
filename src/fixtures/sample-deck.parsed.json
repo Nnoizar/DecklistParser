@@ -1,0 +1,32 @@
+[
+    {
+        "Card Name": "Karador, Ghost Chieftain",
+        "Quantity": 1,
+        "Card Type": "Nonland",
+        "Oracle Text": "This spell costs {1} less to cast for each creature card in your graveyard. Once during each of your turns, you may cast a creature spell from your graveyard."
+    },
+    {
+        "Card Name": "Altar of Dementia",
+        "Quantity": 1,
+        "Card Type": "Nonland",
+        "Oracle Text": "Sacrifice a creature: Target player mills cards equal to the sacrificed creature's power."
+    },
+    {
+        "Card Name": "Ancient Tomb",
+        "Quantity": 1,
+        "Card Type": "Land",
+        "Oracle Text": "{T}: Add {C}{C}. This land deals 2 damage to you."
+    },
+    {
+        "Card Name": "Life // Death",
+        "Quantity": 1,
+        "Card Type": "Nonland",
+        "Oracle Text": ""
+    },
+    {
+        "Card Name": "Sun Titan",
+        "Quantity": 1,
+        "Card Type": "Nonland",
+        "Oracle Text": "Vigilance. Whenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield."
+    }
+]
